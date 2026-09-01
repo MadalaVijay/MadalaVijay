@@ -22,12 +22,12 @@ dashboard more than a hunch.
 
 #### Repositories
 
-**[paid-ads-skills](https://github.com/MadalaVijay/paid-ads-skills)** — six
+**[paid-ads-skills](https://github.com/MadalaVijay/paid-ads-skills)** : six
 Claude Code skills for people who run paid media: the morning health check,
 creative fatigue, audience overlap, scaling decisions, invalid traffic, and
 whether your CAC is telling the truth. Judgement, not prompt wrappers.
 
-**[ats-resume-builder](https://github.com/MadalaVijay/ats-resume-builder)** —
+**[ats-resume-builder](https://github.com/MadalaVijay/ats-resume-builder)**:
 ATS-clean resume PDFs from a JSON file, with a `--check` flag that extracts the
 text back out and reports what a parser would actually see. Built it because
 every online builder produces two-column, icon-heavy PDFs that get scrambled on
