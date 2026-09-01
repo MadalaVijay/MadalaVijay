@@ -2,40 +2,47 @@
 
 **Growth marketer who builds the systems he needs.**
 
-I spend most of my time on paid acquisition, conversion economics and lifecycle
-for consumer subscription businesses. When the tooling doesn't exist, I build it
+I own acquisition as a function rather than a channel: paid media across Meta,
+Google and LinkedIn, plus SEO and AEO, lifecycle, CRO, pricing, and the product
+requirements that make a funnel work. When the tooling does not exist I build it
 with AI agents rather than waiting for budget or an engineer.
 
-Nine years leading aerospace engineering programmes before that, which is
-probably why I trust a dashboard more than a hunch.
+Six years building growth functions, on top of nine years leading aerospace
+engineering delivery and strategic sales. Which is probably why I trust a
+dashboard more than a hunch.
 
 #### Currently
 
-- Leading growth at a D2C kids-fitness subscription: paid, organic, lifecycle,
-  CRO, pricing and the product requirements that make the funnel work
-- Running a six-person team on top of an in-house AI agent stack that handles
+- Leading growth at a D2C kids-fitness subscription: zero to its first 250
+  paying subscribers in 90 days, with spend held back until demo-to-paid
+  conversion worked
+- Running a six-person team on an in-house AI agent stack that handles
   reporting, lead routing and first-draft creative
 - Publishing the growth tooling I use, generalised so it works outside my stack
 
-#### What I'm building here
-
-Open-source skills and tools for growth marketers who work with AI agents.
-Not wrappers around an API. The operating knowledge that makes the output
-usable: how to read a funnel, when a CAC number is lying to you, what to check
-before you scale spend.
-
-#### Working on
-
-**[ats-resume-builder](https://github.com/MadalaVijay/ats-resume-builder)** —
-ATS-clean resume PDFs from a JSON file, with a `--check` flag that extracts the
-text back out and tells you what a parser would actually see. Built it because
-every online builder produces two-column, icon-heavy PDFs that get scrambled on
-parse, and nobody ever tells you.
+#### Repositories
 
 **[paid-ads-skills](https://github.com/MadalaVijay/paid-ads-skills)** — six
 Claude Code skills for people who run paid media: the morning health check,
 creative fatigue, audience overlap, scaling decisions, invalid traffic, and
 whether your CAC is telling the truth. Judgement, not prompt wrappers.
+
+**[ats-resume-builder](https://github.com/MadalaVijay/ats-resume-builder)** —
+ATS-clean resume PDFs from a JSON file, with a `--check` flag that extracts the
+text back out and reports what a parser would actually see. Built it because
+every online builder produces two-column, icon-heavy PDFs that get scrambled on
+parse, and nobody ever tells you.
+
+#### A few things I believe about growth
+
+Fix conversion economics before scaling spend. Money behind a leaky funnel just
+leaves faster.
+
+Optimise to verified quality, not platform-reported volume. Ad platforms are
+graded by their own homework.
+
+Judge at the margin, not the average. A channel at 3x blended return can be
+losing money on its most recent spend.
 
 #### Elsewhere
 
