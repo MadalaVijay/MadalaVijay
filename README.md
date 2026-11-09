@@ -22,7 +22,7 @@ dashboard more than a hunch.
 
 #### Repositories
 
-Six skill libraries for AI coding agents, 40 skills in total, written generic so
+Seven skill libraries for AI coding agents, 46 skills in total, written generic so
 they work outside my stack. They split into a judgement layer and an operational
 layer rather than overlapping.
 
@@ -34,6 +34,11 @@ layer rather than overlapping.
   activation, channel fit, capacity economics, form friction. Depth over coverage;
   [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills)
   is the place to go for breadth.
+
+- **[ai-ads-readout-skills](https://github.com/MadalaVijay/ai-ads-readout-skills)**
+  — reading a new ad surface, such as conversational or AI-answer ads, when there
+  is no benchmark: a verdict from your own numbers, where a quoted benchmark
+  really came from, and whether an impression price can ever pay for a customer.
 
 **Operations — the decisions you make every week on a live account**
 
