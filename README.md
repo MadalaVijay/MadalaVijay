@@ -22,7 +22,7 @@ dashboard more than a hunch.
 
 #### Repositories
 
-Nine skill libraries for AI coding agents, 58 skills in total, written generic so
+Ten skill libraries for AI coding agents, 64 skills in total, written generic so
 they work outside my stack. They split into a judgement layer and an operational
 layer rather than overlapping.
 
@@ -67,6 +67,11 @@ layer rather than overlapping.
 - **[retention-ops-skills](https://github.com/MadalaVijay/retention-ops-skills)**
   — failed payments, renewal timing, winback segmentation, cancellation flows.
   The plumbing, not the cohort analysis.
+
+- **[ads-agent-guardrails-skills](https://github.com/MadalaVijay/ads-agent-guardrails-skills)**
+  — before an AI agent gets write access to an ad account: which changes run
+  unattended, layered spend caps, edit budgets so it cannot keep a campaign
+  unsettled, approvals tied to a specific diff, rollback, and when it must stop.
 
 **Tools**
 
