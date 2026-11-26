@@ -22,7 +22,7 @@ dashboard more than a hunch.
 
 #### Repositories
 
-Eight skill libraries for AI coding agents, 52 skills in total, written generic so
+Nine skill libraries for AI coding agents, 58 skills in total, written generic so
 they work outside my stack. They split into a judgement layer and an operational
 layer rather than overlapping.
 
@@ -43,6 +43,12 @@ layer rather than overlapping.
   — did the ads cause those sales or were they coming anyway: when a holdout is
   worth running, small-budget design, regional splits, reading a platform's own
   lift study, automated campaigns that over-report, and mix model sanity checks.
+
+- **[ad-creative-diagnosis-skills](https://github.com/MadalaVijay/ad-creative-diagnosis-skills)**
+  — why did that ad win or lose: separating what actually differed between two
+  ads, ruling out audience and timing before crediting the creative, reading a
+  hook with the metric that belongs to it, and what a competitor's ad can and
+  cannot teach you.
 
 **Operations — the decisions you make every week on a live account**
 
